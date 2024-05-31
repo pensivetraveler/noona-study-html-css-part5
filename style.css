@@ -52,6 +52,11 @@ nav ul li a {
     padding: 10px 0;
 }
 
+body.index nav ul li a {
+    width: 200px;
+    margin: 0 auto;
+}
+
 nav ul li img {
     margin-top: 10px;
     max-width: 200px;
