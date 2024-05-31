@@ -1,0 +1,17 @@
+main {
+    justify-content: center;
+    align-content: center;
+}
+main .box1 {
+    height: 200px;
+    width: 200px;
+    background-color: grey;
+    line-height: 50px;
+    top: 20px;
+    position: relative;
+}
+main .box2 {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}

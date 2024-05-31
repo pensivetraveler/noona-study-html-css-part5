@@ -1,0 +1,10 @@
+main {
+    align-items: flex-start;
+    flex-direction: column;
+}
+.box2 {
+    align-self: center;
+}
+.box3 {
+    align-self: flex-end;
+}
